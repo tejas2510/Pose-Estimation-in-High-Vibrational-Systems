@@ -19,7 +19,8 @@ Pose estimation in dynamic, high-vibrational environments presents a unique chal
   - Gaussian Blur
   - Canny Edge Detection
   - Contour Analysis
-  - Dynamic Shape Scoring
+  - Dynamic Shape Scoring <br> <br>
+![Classical Approach](https://github.com/tejas2510/Pose-Estimation-in-high-vibrational-systems/blob/master/assets/steps.gif?raw=true)
 
 #### Detection Strategy
 1. **Multi-Parameter Object Recognition**
