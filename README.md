@@ -35,7 +35,7 @@ python yolo11.py
   - Canny Edge Detection
   - Contour Analysis
   - Dynamic Shape Scoring <br> <br>
-![Classical Approach](https://github.com/tejas2510/Pose-Estimation-in-high-vibrational-systems/blob/master/assets/steps.gif?raw=true)
+<img src="https://github.com/tejas2510/Pose-Estimation-in-high-vibrational-systems/blob/master/assets/steps.gif?raw=true" alt="Classical Approach">
 
 #### Detection Strategy
 1. **Multi-Parameter Object Recognition**
@@ -49,7 +49,7 @@ python yolo11.py
    - Energy field particle simulation
    - Dynamic 3D wireframe rendering
    - Adaptive color tracking <br><br>
-![Classical Approach](https://github.com/tejas2510/Pose-Estimation-in-high-vibrational-systems/blob/master/assets/classical.gif?raw=true)
+<img src="https://github.com/tejas2510/Pose-Estimation-in-high-vibrational-systems/blob/master/assets/classical.gif?raw=true" alt="Classical Approach">
 
 ### Output Metric Plots
 
@@ -81,7 +81,7 @@ python yolo11.py
    - Robust object localization
    - Depth prediction integration
    - Real-time inference capabilities <br> <br>
-![DL Approach](https://github.com/tejas2510/Pose-Estimation-in-high-vibrational-systems/blob/master/assets/dl_approach.gif?raw=true)
+<img src="https://github.com/tejas2510/Pose-Estimation-in-high-vibrational-systems/blob/master/assets/dl_approach.gif?raw=true" alt="DL Approach">
 ## 📊 Comparative Analysis
 
 | Characteristic | Classical Approach | Deep Learning Approach |
