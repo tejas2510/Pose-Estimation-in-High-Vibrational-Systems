@@ -59,7 +59,7 @@ Pose estimation in dynamic, high-vibrational environments presents a unique chal
    - Multi-scale feature extraction
    - Robust object localization
    - Depth prediction integration
-   - Real-time inference capabilities
+   - Real-time inference capabilities <br> <br>
 ![DL Approach](https://github.com/tejas2510/Pose-Estimation-in-high-vibrational-systems/blob/master/assets/dl_approach.gif?raw=true)
 ## 📊 Comparative Analysis
 
