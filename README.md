@@ -35,8 +35,6 @@ python yolo11.py
   - Canny Edge Detection
   - Contour Analysis
   - Dynamic Shape Scoring <br> <br>
-<img src="https://github.com/tejas2510/Pose-Estimation-in-high-vibrational-systems/blob/master/assets/steps.gif?raw=true" alt="Classical Approach">
-
 #### Detection Strategy
 1. **Multi-Parameter Object Recognition**
    - Sophisticated contour approximation
@@ -49,6 +47,8 @@ python yolo11.py
    - Energy field particle simulation
    - Dynamic 3D wireframe rendering
    - Adaptive color tracking <br><br>
+<img src="https://github.com/tejas2510/Pose-Estimation-in-high-vibrational-systems/blob/master/assets/steps.gif?raw=true" alt="Classical Approach">
+
 <img src="https://github.com/tejas2510/Pose-Estimation-in-high-vibrational-systems/blob/master/assets/classical.gif?raw=true" alt="Classical Approach">
 
 ### Output Metric Plots
