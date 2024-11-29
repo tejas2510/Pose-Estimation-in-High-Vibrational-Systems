@@ -37,7 +37,7 @@ Pose estimation in dynamic, high-vibrational environments presents a unique chal
 ### 🤖 Phase 2: Deep Learning Approach (YOLO v11m)
 
 #### Performance Metrics
-- **Frame Rate**: 45 FPS
+- **Frame Rate**: 25 FPS
 - **Accuracy**: 99%
 - **Computational Complexity**: High
 - **Training Data**: 3000+ custom images
@@ -65,7 +65,7 @@ Pose estimation in dynamic, high-vibrational environments presents a unique chal
 
 | Characteristic | Classical Approach | Deep Learning Approach |
 |---------------|--------------------|-----------------------|
-| **Frame Rate** | 200 FPS | 45 FPS |
+| **Frame Rate** | 200 FPS | 25 FPS |
 | **Accuracy** | 85% | 99% |
 | **Computational Resources** | Low | High |
 | **Training Requirement** | None | Extensive |
@@ -87,7 +87,7 @@ Pose estimation in dynamic, high-vibrational environments presents a unique chal
     - **Accuracy**: 99%, ideal for precise pose estimation in challenging environments.
     - **Training Data**: Requires 3000+ custom images for training.
   - **Weaknesses**:
-    - **Frame Rate**: 45 FPS, slower than the classical approach.
+    - **Frame Rate**: 25 FPS, slower than the classical approach.
     - **Computational Requirements**: High, demanding powerful hardware for training and inference.
   - **Applications**: Autonomous Vehicles, Medical Imaging, Advanced Robotics, Sports Analytics.
 
