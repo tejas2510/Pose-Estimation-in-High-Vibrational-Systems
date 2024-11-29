@@ -53,7 +53,7 @@ python yolo11.py
 
 ### Output Metric Plots
 
-![plots](https://github.com/tejas2510/Pose-Estimation-in-High-Vibrational-Systems/blob/master/outputs/metric_plots_20241129230031.png?raw=true)
+<img src="https://github.com/tejas2510/Pose-Estimation-in-High-Vibrational-Systems/blob/master/outputs/metric_plots_20241129230031.png?raw=true" alt="plots" height="300px" width="450px">
 
 ### 🤖 Phase 2: Deep Learning Approach (YOLO v11m)
 
