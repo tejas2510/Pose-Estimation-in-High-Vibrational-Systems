@@ -1,4 +1,4 @@
-# <p align="center">🕹️ Precision Pose Estimation: Classical vs Deep Learning Approaches</p>
+# <p align="center">🎯 Pose Estimation in High Vibrational Systems: Classical vs Deep Learning Approaches</p>
 
 
 ## 🌐 Project Overview
