@@ -36,8 +36,6 @@ python yolo11.py
   - Contour Analysis
   - Dynamic Shape Scoring <br> <br>
 ![Classical Approach](https://github.com/tejas2510/Pose-Estimation-in-high-vibrational-systems/blob/master/assets/steps.gif?raw=true)
-#### Output Metric Plots
-![plots](https://github.com/tejas2510/Pose-Estimation-in-High-Vibrational-Systems/blob/master/outputs/metric_plots_20241129230031.png?raw=true)
 
 #### Detection Strategy
 1. **Multi-Parameter Object Recognition**
@@ -52,6 +50,11 @@ python yolo11.py
    - Dynamic 3D wireframe rendering
    - Adaptive color tracking <br><br>
 ![Classical Approach](https://github.com/tejas2510/Pose-Estimation-in-high-vibrational-systems/blob/master/assets/classical.gif?raw=true)
+
+### Output Metric Plots
+
+![plots](https://github.com/tejas2510/Pose-Estimation-in-High-Vibrational-Systems/blob/master/outputs/metric_plots_20241129230031.png?raw=true)
+
 ### 🤖 Phase 2: Deep Learning Approach (YOLO v11m)
 
 #### Performance Metrics
