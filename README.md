@@ -119,8 +119,6 @@ python yolo11.py
 
 ## 🎓 Credits
 
-This project utilizes the following technologies:
-
 - **MiDaS** (Depth Estimation):  
   MiDaS is used for depth estimation, providing high-quality depth maps in complex scenes.  
   Paper: [MiDaS: A Multi-Scale Network for Depth Estimation](https://arxiv.org/abs/1907.01341)
