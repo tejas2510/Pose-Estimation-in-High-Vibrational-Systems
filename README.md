@@ -125,6 +125,21 @@ Contributions are always welcome! Please check our [Contributing Guidelines](/CO
   <img src="https://contrib.rocks/image?repo=tejas2510/Pose-Estimation-in-high-vibrational-systems" />
 </a>
 
+## 🎓 Credits
+
+This project utilizes the following technologies:
+
+- **MiDaS** (Depth Estimation):  
+  MiDaS is used for depth estimation, providing high-quality depth maps in complex scenes.  
+  Paper: [MiDaS: A Multi-Scale Network for Depth Estimation](https://arxiv.org/abs/2007.15503)
+
+- **YOLO v11m** (Object Detection):  
+  YOLO v11m is the object detection model employed in this study for precise pose estimation.  
+  Paper: [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
+
+We would like to thank the respective authors and communities for their contributions to the open-source ecosystem!
+
+
 ## 📧 Contact
 
 For more information, collaborations, or inquiries:
