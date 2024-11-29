@@ -79,6 +79,8 @@ Pose estimation in dynamic, high-vibrational environments presents a unique chal
   - **Strengths**:
     - **Frame Rate**: Up to 200 FPS with low computational requirements.
     - **Training Data**: None required (zero training).
+    - **Computational Requirements**: Very Low, doesn't need any expensive hardware.
+
   - **Weaknesses**:
     - **Accuracy**: 85%, which may struggle in complex or dynamic environments.
     - **Adaptability**: Limited to predefined techniques and cannot learn from new data.
