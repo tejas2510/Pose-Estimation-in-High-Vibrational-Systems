@@ -1,7 +1,5 @@
-<p align="center">
-  
-  # 🕹️ Precision Pose Estimation: Classical vs Deep Learning Approaches
-</p>
+# <p align="center">🕹️ Precision Pose Estimation: Classical vs Deep Learning Approaches</p>
+
 
 ## 🌐 Project Overview
 
