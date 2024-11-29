@@ -51,7 +51,7 @@ python yolo11.py
 
 <img src="https://github.com/tejas2510/Pose-Estimation-in-high-vibrational-systems/blob/master/assets/classical.gif?raw=true" alt="Classical Approach">
 
-### Output Metric Plots
+### 📊 Output Metric Plots
 
 <img src="https://github.com/tejas2510/Pose-Estimation-in-High-Vibrational-Systems/blob/master/outputs/metric_plots_20241129230031.png?raw=true" alt="plots" height="500px" width="750px">
 
