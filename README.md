@@ -32,8 +32,8 @@ Pose estimation in dynamic, high-vibrational environments presents a unique chal
    - Real-time motion trail visualization
    - Energy field particle simulation
    - Dynamic 3D wireframe rendering
-   - Adaptive color tracking <br>
-![Pose Estimation](https://github.com/tejas2510/Pose-Estimation-in-high-vibrational-systems/blob/master/assets/classical.gif?raw=true)
+   - Adaptive color tracking <br><br>
+![Classical Approach](https://github.com/tejas2510/Pose-Estimation-in-high-vibrational-systems/blob/master/assets/classical.gif?raw=true)
 ### 🤖 Phase 2: Deep Learning Approach (YOLO v11m)
 
 #### Performance Metrics
@@ -60,7 +60,7 @@ Pose estimation in dynamic, high-vibrational environments presents a unique chal
    - Robust object localization
    - Depth prediction integration
    - Real-time inference capabilities
-
+![DL Approach](https://github.com/tejas2510/Pose-Estimation-in-high-vibrational-systems/blob/master/assets/dl_approach.gif?raw=true)
 ## 📊 Comparative Analysis
 
 | Characteristic | Classical Approach | Deep Learning Approach |
