@@ -34,7 +34,7 @@ python yolo11.py
   - Gaussian Blur
   - Canny Edge Detection
   - Contour Analysis
-  - Dynamic Shape Scoring <br> <br>
+  - Dynamic Shape Scoring <br>
 #### Detection Strategy
 1. **Multi-Parameter Object Recognition**
    - Sophisticated contour approximation
