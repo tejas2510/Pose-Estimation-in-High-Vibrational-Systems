@@ -1,10 +1,9 @@
 # <p align="center">🎯 Pose Estimation in High Vibrational Systems: Classical vs Deep Learning Approaches</p>
 
-
 ## 🌐 Project Overview
 
 Pose estimation in dynamic, high-vibrational environments presents a unique challenge, particularly in military applications where real-time object tracking and situational awareness are crucial. High-motion and vibration often degrade traditional methods, making innovative solutions necessary. This study compares two approaches: a classical computer vision technique, which is fast but limited in accuracy, and a deep learning-based strategy like YOLO v11m, which excels in accuracy but requires high computational power. By exploring both methods, we aim to improve pose estimation for military operations, surveillance, and autonomous systems in complex environments.
-<hr style="border: 2px solid black;"/>
+
 
 ## 📦 Installation
 
