@@ -82,6 +82,7 @@ python yolo11.py
    - Depth prediction integration
    - Real-time inference capabilities <br> <br>
 <img src="https://github.com/tejas2510/Pose-Estimation-in-high-vibrational-systems/blob/master/assets/dl_approach.gif?raw=true" alt="DL Approach">
+
 ## 📊 Comparative Analysis
 
 | Characteristic | Classical Approach | Deep Learning Approach |
