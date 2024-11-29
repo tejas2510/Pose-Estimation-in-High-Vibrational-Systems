@@ -49,11 +49,11 @@ python yolo11.py
    - Energy field particle simulation
    - Dynamic 3D wireframe rendering
    - Adaptive color tracking <br><br>
-<p align="center"> <img src="https://github.com/tejas2510/Pose-Estimation-in-high-vibrational-systems/blob/master/assets/classical.gif?raw=true" alt="Classical Approach"> </p>
+<img src="https://github.com/tejas2510/Pose-Estimation-in-high-vibrational-systems/blob/master/assets/classical.gif?raw=true" alt="Classical Approach">
 
 ### Output Metric Plots
 
-<p align="center"> <img src="https://github.com/tejas2510/Pose-Estimation-in-High-Vibrational-Systems/blob/master/outputs/metric_plots_20241129230031.png?raw=true" alt="plots" height="300px" width="450px"> </p>
+<img src="https://github.com/tejas2510/Pose-Estimation-in-High-Vibrational-Systems/blob/master/outputs/metric_plots_20241129230031.png?raw=true" alt="plots" height="500px" width="750px">
 
 ### 🤖 Phase 2: Deep Learning Approach (YOLO v11m)
 
@@ -81,7 +81,7 @@ python yolo11.py
    - Robust object localization
    - Depth prediction integration
    - Real-time inference capabilities <br> <br>
-<p align="center"> <img src="https://github.com/tejas2510/Pose-Estimation-in-high-vibrational-systems/blob/master/assets/dl_approach.gif?raw=true" alt="DL Approach"> </p>
+<img src="https://github.com/tejas2510/Pose-Estimation-in-high-vibrational-systems/blob/master/assets/dl_approach.gif?raw=true" alt="DL Approach">
 ## 📊 Comparative Analysis
 
 | Characteristic | Classical Approach | Deep Learning Approach |
