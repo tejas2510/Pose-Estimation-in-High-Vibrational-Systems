@@ -71,7 +71,7 @@ Pose estimation in dynamic, high-vibrational environments presents a unique chal
 | **Training Requirement** | None | Extensive |
 | **Adaptability** | Limited | High |
 
-## 🧠 Inference: Classical vs Deep Learning Approaches
+## 🔍 Key Insights: Classical vs Deep Learning Approaches
 
 - **Classical Approach**:
   - **Strengths**:
@@ -95,12 +95,6 @@ Pose estimation in dynamic, high-vibrational environments presents a unique chal
 - Integrated MiDaS depth estimation
 - Real-time depth map generation
 - Multi-resolution depth prediction
-
-## 🔍 Key Insights
-
-1. Classical methods excel in speed and lightweight processing
-2. Deep learning provides superior accuracy with higher computational costs
-3. Hybrid approaches show promising future potential
 
 ## 📦 Installation
 
