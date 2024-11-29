@@ -131,11 +131,11 @@ This project utilizes the following technologies:
 
 - **MiDaS** (Depth Estimation):  
   MiDaS is used for depth estimation, providing high-quality depth maps in complex scenes.  
-  Paper: [MiDaS: A Multi-Scale Network for Depth Estimation](https://arxiv.org/abs/2007.15503)
+  Paper: [MiDaS: A Multi-Scale Network for Depth Estimation](https://arxiv.org/abs/1907.01341)
 
-- **YOLO v11m** (Object Detection):  
-  YOLO v11m is the object detection model employed in this study for precise pose estimation.  
-  Paper: [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
+- **YOLO 11m** (Object Detection):  
+  YOLO 11m is the object detection model employed in this study for precise pose estimation & object detection.  
+  Paper: [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/html/2410.17725v1)
 
 We would like to thank the respective authors and communities for their contributions to the open-source ecosystem!
 
