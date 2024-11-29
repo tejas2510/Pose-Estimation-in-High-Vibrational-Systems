@@ -117,14 +117,6 @@ python yolo11.py
 - Improve real-time performance
 - Expand dataset diversity
 
-## ✨ Contributors
-
-Contributions are always welcome! Please check our [Contributing Guidelines](/CONTRIBUTING.md)
-
-<a href="https://github.com/tejas2510/Pose-Estimation-in-high-vibrational-systems/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=tejas2510/Pose-Estimation-in-high-vibrational-systems" />
-</a>
-
 ## 🎓 Credits
 
 This project utilizes the following technologies:
@@ -139,6 +131,14 @@ This project utilizes the following technologies:
 
 We would like to thank the respective authors and communities for their contributions to the open-source ecosystem!
 
+
+## ✨ Contributors
+
+Contributions are always welcome! Please check our [Contributing Guidelines](/CONTRIBUTING.md)
+
+<a href="https://github.com/tejas2510/Pose-Estimation-in-high-vibrational-systems/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=tejas2510/Pose-Estimation-in-high-vibrational-systems" />
+</a>
 
 ## 📧 Contact
 
