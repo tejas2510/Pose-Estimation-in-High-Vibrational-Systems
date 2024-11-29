@@ -5,6 +5,20 @@
 
 Pose estimation in dynamic, high-vibrational environments presents a unique challenge, particularly in military applications where real-time object tracking and situational awareness are crucial. High-motion and vibration often degrade traditional methods, making innovative solutions necessary. This study compares two approaches: a classical computer vision technique, which is fast but limited in accuracy, and a deep learning-based strategy like YOLO v11m, which excels in accuracy but requires high computational power. By exploring both methods, we aim to improve pose estimation for military operations, surveillance, and autonomous systems in complex environments.
 
+## 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/pose-estimation-project
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the main script
+python main.py
+python yolo11.py
+```
+
 ## 🔬 Methodological Approaches
 
 ### 🖥️ Phase 1: Classical Computer Vision Approach
@@ -99,20 +113,6 @@ Pose estimation in dynamic, high-vibrational environments presents a unique chal
 - Integrated MiDaS depth estimation
 - Real-time depth map generation
 - Multi-resolution depth prediction
-
-## 📦 Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/pose-estimation-project
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the main script
-python main.py
-python yolo11.py
-```
 
 ## 📝 Future Work
 - Develop hybrid detection algorithms
