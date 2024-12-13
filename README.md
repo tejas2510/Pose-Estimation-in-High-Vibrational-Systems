@@ -144,17 +144,15 @@ We would like to thank the respective authors and communities for their contribu
 Contributions are always welcome! Please check our [Contributing Guidelines](/CONTRIBUTING.md)
 
 <a href="https://github.com/tejas2510/Pose-Estimation-in-high-vibrational-systems/graphs/contributors">
-<div align="center">
-  <a href="https://github.com/tejas2510/">
-    <img src="https://github.com/tejas2510.png" width="60" height="60" style="border-radius: 50%; object-fit: cover; margin-right: 10px;" />
-  </a>
-  <a href="https://github.com/ShashankBhat-18/">
-    <img src="https://github.com/ShashankBhat-18.png" width="60" height="60" style="border-radius: 50%; object-fit: cover; margin-right: 10px;" />
-  </a>
-  <a href="https://github.com/Abhi4tostoboy">
-    <img src="https://github.com/Abhi4tostoboy.png" width="60" height="60" style="border-radius: 50%; object-fit: cover;" />
-  </a>
-</div>
+<a href="https://github.com/tejas2510/">
+  <img src="https://github.com/tejas2510.png" width="60" height="60" style="border-radius: 50%; object-fit: cover; margin-right: 10px;" />
+</a>
+<a href="https://github.com/ShashankBhat-18/">
+  <img src="https://github.com/ShashankBhat-18.png" width="60" height="60" style="border-radius: 50%; object-fit: cover; margin-right: 10px;" />
+</a>
+<a href="https://github.com/Abhi4tostoboy">
+  <img src="https://github.com/Abhi4tostoboy.png" width="60" height="60" style="border-radius: 50%; object-fit: cover;" />
+</a>
 
  
 </a>
